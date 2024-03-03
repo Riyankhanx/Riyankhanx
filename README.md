@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Riyankhanx
 - 👀 I’m interested in Flutter
-- 🌱 I’m currently learning C 
+- 🌱 I’m currently learning Dart
 
 <!---
 Riyankhanx/Riyankhanx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
